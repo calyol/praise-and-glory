@@ -1,0 +1,19 @@
+---
+title: "10 | Gracious"
+author: "C.O."
+date: "October 2024"
+draft: true
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Psalms 67:1
+-   Week 2
+    -   Isaiah 33:2
+-   Week 3
+    -   Joel 2:13
+-   Week 4
+    -   2 Kings 13:23

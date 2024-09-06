@@ -1,0 +1,19 @@
+---
+title: "11 | Goodness"
+author: "C.O."
+date: "November 2024"
+draft: true
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Psalms 31:19
+-   Week 2
+    -   Hebrews 6:5
+-   Week 3
+    -   Romans 15:14
+-   Week 4
+    -   Amos 5:14

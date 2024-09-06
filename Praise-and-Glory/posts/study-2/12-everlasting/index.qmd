@@ -1,0 +1,19 @@
+---
+title: "12 | Everlasting"
+author: "C.O."
+date: "December 2024"
+draft: true
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Psalms 90:2
+-   Week 2
+    -   Psalms 139:24
+-   Week 3
+    -   Isaiah 26:4
+-   Week 4
+    -   Ezekiel 16:60

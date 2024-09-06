@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Praise & Glory"
+  navbar:
+    left:
+      - icon: 1-square
+        href: study-1.qmd
+      - icon: 2-square
+        href: study-2.qmd
+    right:
+      - icon: house-door
+        href: index.qmd
+  page-footer:
+    left: |
+      &copy; C.O.
+    right: |
+      Made with ❤️ in Richmond, Virginia
+        
+format:
+  html:
+    theme: simplex
+    css: styles.css
+
+
+

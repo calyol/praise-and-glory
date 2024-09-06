@@ -1,0 +1,19 @@
+---
+title: "06 | Faithful"
+author: "C.O."
+date: "June 2024"
+draft: false
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Deuteronomy 32:4
+-   Week 2
+    -   Psalms 101:6
+-   Week 3
+    -   Luke 16:10-11
+-   Week 4
+    -   Thessalonians 3:3

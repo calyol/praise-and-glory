@@ -1,0 +1,21 @@
+---
+title: "07 | Fruit"
+author: "C.O."
+date: "July 2024"
+draft: false
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Micah 6:7-8
+-   Week 2
+    -   James 1:18-19
+-   Week 3
+    -   Proverbs 8:19-20
+-   Week 4
+    -   Galatians 5:22-24
+-   Week 5
+    -   Luke 3:8-9

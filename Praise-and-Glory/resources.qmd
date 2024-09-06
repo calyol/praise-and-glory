@@ -1,0 +1,61 @@
+---
+title: "Resources"
+draft: true
+---
+
+- To add categories to a post, add this to the YAML:
+```{r}
+
+# categories: [resolution, beginnings, fear]
+
+```
+
+- To add a [footer](https://quarto.org/docs/reference/projects/websites.html#footer) to a post page, add this to the YAML: 
+```{r}
+
+# page-footer:
+#     center:
+#       -text: "INSERT IMAGE NAME"
+#       -href: INSERT URL
+
+```
+      
+- Some of the default page [listings](https://quarto.org/docs/websites/website-listings.html) that can be included in the YAML are `sort-ui` and `filter-ui`.
+
+- To add icons to the About page, add this to the YAML:
+```{r}
+
+# links:
+#     - icon: INSET BOOTSWATCH ICON NAME
+#       text: INSERT TEXT
+#       href: INSERT URL
+
+```
+
+- To add icons, use [Bootswatch](https://icons.getbootstrap.com/?q=book) names.
+  - This [GitHub issue}(https://github.com/quarto-dev/quarto-cli/discussions/2402) indicates that there are extensions that allow use of fontawesome icons.
+
+- See Deepsha's awesome Create Your Portfolio talk (2023) on Quarto blogs on [Youtube](https://www.youtube.com/watch?v=xtSFXtDf4cM) (+ [slides](https://deepshamenghani.quarto.pub/portfolio-with-quarto-workshop/#/title-slide)).
+  - There are instructions for how to add a page footer.
+
+- See Federica's awesome Quarto Website talk (2024) for R-Ladies Rome on [YouTube](https://www.youtube.com/watch?v=KVMwJvoM9CE) (+ [GitHub repo](https://github.com/Fgazzelloni/building_a_website_in_r)).
+  - She covers how to having a typing animation in the header!
+  
+- Federica also create the [R-Ladies Rome](https://github.com/rladies/website-italy-rladiesrome) website using Quarto.
+
+- See the [Bootswatch themes](https://bootswatch.com/3/) online.
+
+- Use `draft:true` option in YAML to prevent a file form being rendered and searchable on the website.
+
+- For some reason, by default, using unordered list HTML tag with list item HTML tag results in extra bullet points. However, using unordered list HTML tag with Markdown list has the designed result to make a left-aligned, bulleted list.
+
+- See Quarto [Tips & Tricks](https://www.productive-r-workflow.com/quarto-tricks) from Yan Holtz. 
+  - One of the tips includes HTML code for adding a button.
+  
+- [Emojis](https://quarto.org/docs/visual-editor/content.html#emojis) can be added in Quarto, if you are using the visual editor.
+
+- See this [StackOverflow forum](https://stackoverflow.com/questions/74100418/inline-images-in-quarto-markdown) about adding inline images in {revealjs} slides.
+
+- See this [GitHub issue](https://github.com/quarto-dev/quarto-cli/discussions/9957) to learn additional YAML options for the listing page!
+
+-  Mine Cetinkaya had a 2022 [website](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) with daily Quarto tips.

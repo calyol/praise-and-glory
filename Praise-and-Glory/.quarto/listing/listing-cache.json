@@ -1,0 +1,14 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts",
+      "about.qmd"
+    ],
+    "study-1.qmd": [
+      "posts/study-1"
+    ],
+    "study-2.qmd": [
+      "posts/study-2"
+    ]
+  }
+}

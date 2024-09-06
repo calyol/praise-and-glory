@@ -1,0 +1,13 @@
+---
+title: "Study 2"
+listing:
+  contents: posts/study-2
+  sort: "title"
+  type: grid
+page-layout: full
+title-block-banner: true
+---
+
+<img class="circular_image" src=images/yosemite.jpg>
+
+<br>

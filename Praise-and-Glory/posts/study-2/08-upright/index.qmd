@@ -1,0 +1,19 @@
+---
+title: "08 | Upright"
+author: "C.O."
+date: "August 2024"
+draft: false
+---
+
+This is the blog text.
+
+Meditate on these verses to gain wisdom:
+
+-   Week 1
+    -   Job 4:7
+-   Week 2
+    -   Acts 10:22
+-   Week 3
+    -   Proverbs 2:21
+-   Week 4
+    -   Psalms 33:4

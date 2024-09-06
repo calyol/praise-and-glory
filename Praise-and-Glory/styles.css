@@ -1,0 +1,18 @@
+/* CSS Styles */
+
+/* 
+Purpose: Create a round image 
+Source: https://stackoverflow.com/questions/28700841/how-to-make-a-circular-image-in-css
+*/
+
+.circular_image{
+    height:300px;
+    width:300px;
+    border-radius:50%;
+    background:white;
+    overflow:hidden;
+}
+
+.circular_image img{
+  width:100%;
+}
