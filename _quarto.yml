@@ -6,10 +6,12 @@ website:
   title: "Praise & Glory"
   navbar:
     left:
-      - icon: 1-square
+      - text: Study 1
         href: study-1.qmd
-      - icon: 2-square
+      - text: Study 2
         href: study-2.qmd
+      - text: Poems
+        href: poems.qmd
     right:
       - icon: house-door
         href: index.qmd
