@@ -1,0 +1,45 @@
+---
+title: "Home"
+image: images/sunflower.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+---
+
+# Welcome
+
+This is a non-denominational Christian Bible study. The author uses the New International Version (NIV) or New King James Version (NKJV) when developing these studies. If you do not have a NIV or NKJV Bible, you can find one online:
+
+[Bible Gateway](https://www.biblegateway.com/versions/) 
+
+[Bible Study Tools](https://www.biblestudytools.com/bible-versions/)
+
+
+# Studies
+
+There are several year-long studies for you to choose. Each study has a topic for every month of the year. There are Bible verses for each week of the month. 
+
+*Even though these studies were written in years past, do not hesitate to (re)visit them as often as you feel led to do so.*
+
+<button type="button" class="btn btn-default"><a href="study-1.qmd">Study 1</a></button>
+
+<button type="button" class="btn btn-default"><a href="study-2.qmd">Study 2</a></button>
+
+# Tips 
+
+- Pray and seek wisdom and understanding from the  Holy Spirit.
+- Read the Bible verse for the week  multiple times to gain meaning and context.
+- Journal your thoughts for reflection later.
+
+<br>
+
+May God be glorified in your life!
+
+<br>
+
+<hr>
+
+<p style="text-align: left; color: #717171; font-size: 10px">
+Photo by <a href="https://unsplash.com/@aaronburden?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aaron Burden</a> on <a href="https://unsplash.com/photos/close-up-photography-of-yellow-sunflower-zpK28VGxkJw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<p>

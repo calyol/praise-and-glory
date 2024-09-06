@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/study-1.html",
+    "items": [
+      "/posts/study-1/01-annointing/index.html",
+      "/posts/study-1/02-love/index.html",
+      "/posts/study-1/03-wind/index.html",
+      "/posts/study-1/04-growth/index.html",
+      "/posts/study-1/05-mercy/index.html",
+      "/posts/study-1/06-waves/index.html",
+      "/posts/study-1/07-freedom/index.html",
+      "/posts/study-1/08-peace/index.html",
+      "/posts/study-1/09-changes/index.html",
+      "/posts/study-1/10-forgive/index.html",
+      "/posts/study-1/11-justice/index.html",
+      "/posts/study-1/12-humility/index.html"
+    ]
+  },
+  {
+    "listing": "/study-2.html",
+    "items": [
+      "/posts/study-2/01-refuge/index.html",
+      "/posts/study-2/02-redeemed/index.html",
+      "/posts/study-2/03-renew/index.html",
+      "/posts/study-2/04-rest/index.html",
+      "/posts/study-2/05-eternal/index.html",
+      "/posts/study-2/06-faithful/index.html",
+      "/posts/study-2/07-fruit/index.html",
+      "/posts/study-2/08-upright/index.html",
+      "/posts/study-2/09-great/index.html"
+    ]
+  }
+]
