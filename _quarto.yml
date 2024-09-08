@@ -10,8 +10,6 @@ website:
         href: study-1.qmd
       - text: Study 2
         href: study-2.qmd
-      - text: Poems
-        href: poems.qmd
     right:
       - icon: house-door
         href: index.qmd
