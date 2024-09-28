@@ -26,11 +26,15 @@ There are year-long studies for you to choose. Each study has a topic for every 
 
 <button type="button" class="btn btn-default"><a href="study-2.qmd">Study 2</a></button>
 
-# Tips 
+# Study Tips 
 
 - Pray and seek wisdom and understanding from the  Holy Spirit.
 - Read the Bible verse for the week  multiple times to gain meaning and context.
 - Journal your thoughts for reflection later.
+
+# Poems
+
+Please enjoy some GOD-centered acrostic [poems](poems.qmd) designed to encourage your spirit and faith walk.
 
 <br>
 
