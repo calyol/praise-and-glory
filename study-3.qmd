@@ -1,0 +1,17 @@
+---
+title: "Study 3"
+listing:
+  contents: posts/study-3
+  sort: "title"
+  type: grid
+page-layout: full
+title-block-banner: true
+---
+
+<img class="circular_image" src=images/black-cullen.jpg>
+
+<br>
+
+# Study 3 is coming in 2025...
+
+<br>

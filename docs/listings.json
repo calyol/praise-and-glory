@@ -28,7 +28,8 @@
       "/posts/study-2/07-fruit/index.html",
       "/posts/study-2/08-upright/index.html",
       "/posts/study-2/09-great/index.html",
-      "/posts/study-2/10-gracious/index.html"
+      "/posts/study-2/10-gracious/index.html",
+      "/posts/study-2/11-goodness/index.html"
     ]
   },
   {
@@ -44,5 +45,9 @@
       "/posts/study-2/08-upright/index.html",
       "/posts/study-2/09-great/index.html"
     ]
+  },
+  {
+    "listing": "/study-3.html",
+    "items": []
   }
 ]

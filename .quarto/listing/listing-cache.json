@@ -12,6 +12,10 @@
     ],
     "poems.qmd": [
       "posts/study-2"
+    ],
+    "study-3.qmd": [
+      "posts/study-2",
+      "posts/study-3"
     ]
   }
 }

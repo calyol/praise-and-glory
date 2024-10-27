@@ -112,5 +112,32 @@
   },
   "poems.qmd": {
     "poems.html": "6274387c"
+  },
+  "study-3.qmd": {
+    "study-3.html": "a4ee0f5a"
+  },
+  "posts/study-3/01-judgement/post_template.qmd": {
+    "post_template.html": "e678b2eb"
+  },
+  "posts/study-3/02-understanding/post_template.qmd": {
+    "post_template.html": "68dad771"
+  },
+  "posts/study-3/03-sovreign/post_template.qmd": {
+    "post_template.html": "74b244fb"
+  },
+  "posts/study-3/04-trust/post_template.qmd": {
+    "post_template.html": "2f1a58e9"
+  },
+  "posts/study-3/01-judgement/index.qmd": {
+    "index.html": "6ceec8bc"
+  },
+  "posts/study-3/02-understanding/index.qmd": {
+    "index.html": "48055707"
+  },
+  "posts/study-3/03-sovreign/index.qmd": {
+    "index.html": "4f1bffd0"
+  },
+  "posts/study-3/04-trust/index.qmd": {
+    "index.html": "8370b73e"
   }
 }

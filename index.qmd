@@ -26,6 +26,8 @@ There are year-long studies for you to choose. Each study has a topic for every 
 
 <button type="button" class="btn btn-default"><a href="study-2.qmd">Study 2</a></button>
 
+<button type="button" class="btn btn-default"><a href="study-3.qmd">Study 3</a></button>
+
 # Study Tips 
 
 - Pray and seek wisdom and understanding from the  Holy Spirit.
