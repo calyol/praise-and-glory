@@ -49,6 +49,8 @@
   },
   {
     "listing": "/study-3.html",
-    "items": []
+    "items": [
+      "/posts/study-3/01-judgement/index.html"
+    ]
   }
 ]
