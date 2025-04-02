@@ -3,7 +3,7 @@
     "path": "~/GitHub/praise-and-glory/posts/study-3/04-trust/index.qmd",
     "project_path": "posts/study-3/04-trust/index.qmd",
     "type": "quarto_markdown",
-    "hash": "3278173152",
+    "hash": "1410416",
     "contents": "",
     "dirty": false,
     "created": 1743289286960.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,12",
+        "cursorPosition": "12,21",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1743289296,
+    "lastKnownWriteTime": 1743554139,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1743289296389,
+    "last_content_update": 1743554139408,
     "read_only": false,
     "read_only_alternatives": []
 }
