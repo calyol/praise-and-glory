@@ -1,5 +1,5 @@
 ---
-title: "Endless & Everlasting"
+title: "07 | Endless & Everlasting"
 author: "C.O."
 date: "July 2025"
 draft: true

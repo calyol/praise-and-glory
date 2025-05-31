@@ -1,5 +1,5 @@
 ---
-title: "Enter In"
+title: "09 | Enter In"
 author: "C.O."
 date: "September 2025"
 draft: true

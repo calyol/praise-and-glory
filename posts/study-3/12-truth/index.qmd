@@ -1,5 +1,5 @@
 ---
-title: "Truth"
+title: "12 | Truth"
 author: "C.O."
 date: "December 2025"
 draft: true

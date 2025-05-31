@@ -1,5 +1,5 @@
 ---
-title: "Exalt"
+title: "11 | Exalt"
 author: "C.O."
 date: "November 2025"
 draft: true

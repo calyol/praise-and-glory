@@ -1,5 +1,5 @@
 ---
-title: "Complete"
+title: "06 | Complete"
 author: "C.O."
 date: "June 2025"
 draft: false
