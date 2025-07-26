@@ -1,12 +1,12 @@
 {
-    "id": "0BE61436",
-    "path": "~/GitHub/praise-and-glory/posts/study-3/07-endless/index.qmd",
-    "project_path": "posts/study-3/07-endless/index.qmd",
+    "id": "B5F8EE79",
+    "path": "~/GitHub/praise-and-glory/posts/study-3/08-rest/index.qmd",
+    "project_path": "posts/study-3/08-rest/index.qmd",
     "type": "quarto_markdown",
-    "hash": "1591062919",
+    "hash": "799178737",
     "contents": "",
     "dirty": false,
-    "created": 1751218083578.0,
+    "created": 1753544943685.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751218259,
+    "lastKnownWriteTime": 1753545299,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751218259612,
+    "last_content_update": 1753545299378,
     "read_only": false,
     "read_only_alternatives": []
 }
