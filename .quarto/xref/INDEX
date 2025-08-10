@@ -163,5 +163,11 @@
   },
   "posts/study-3/12-truth/index.qmd": {
     "index.html": "9e4272c9"
+  },
+  "abc.qmd": {
+    "abc.html": "fc3fe950"
+  },
+  "ABCs.qmd": {
+    "ABCs.html": "0aeabd17"
   }
 }
