@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home – Praise &amp; Glory</title>
+<title>Study 4 – Praise &amp; Glory</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -65,15 +68,73 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -110,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house-door" role="img">
+    <a class="nav-link" href="./index.html"> <i class="bi bi-house-door" role="img">
 </i> 
 <span class="menu-text">Home</span></a>
   </li>  
@@ -122,80 +183,115 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Study 4</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="images/sunflower.jpg" class="about-image
-  round " style="height: 20em; width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Home</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="welcome" class="level1">
-<h1>Welcome</h1>
-<p>This is a non-denominational Christian Bible study. The author uses the New International Version (NIV) or New King James Version (NKJV) when developing these studies. If you do not have a NIV or NKJV Bible, you can find one online:</p>
-<p><a href="https://www.biblegateway.com/versions/">Bible Gateway</a></p>
-<p><a href="https://www.biblestudytools.com/bible-versions/">Bible Study Tools</a></p>
-</section>
-<section id="studies" class="level1">
-<h1>Studies</h1>
-<p>There are year-long studies for you to choose. Each study has a topic for every month of the year. There are Bible verses for each week of the month.</p>
-<p><em>Even though these studies were written in years past, do not hesitate to (re)visit them as often as you feel led to do so.</em></p>
-<button class="btn btn-default">
-<a href="./study-1.html">Study 1</a>
-</button>
-<button class="btn btn-default">
-<a href="./study-2.html">Study 2</a>
-</button>
-<button class="btn btn-default">
-<a href="./study-3.html">Study 3</a>
-</button>
-<button class="btn btn-default">
-<a href="./study-4.html">Study 4</a>
-</button>
-</section>
-<section id="study-tips" class="level1">
-<h1>Study Tips</h1>
-<ul>
-<li>Pray and seek wisdom and understanding from the Holy Spirit.</li>
-<li>Read the Bible verse for the week multiple times to gain meaning and context.</li>
-<li>Journal your thoughts for reflection later.
-<ul>
-<li>What is the lesson or message? Is it providing instruction?</li>
-<li>How can we apply the text in our current life?</li>
-</ul></li>
-</ul>
-</section>
-<section id="poems" class="level1">
-<h1>Poems</h1>
-<p>Please enjoy some GOD-centered acrostic <a href="./poems.html">poems</a> designed to encourage your spirit and faith walk.</p>
-</section>
-<section id="abcs-of-scripture" class="level1">
-<h1>ABCs of Scripture</h1>
-<p>Read these <a href="./abc.html">scriptures</a> whenever you need some extra encouragement or insight.</p>
-<p><br></p>
-<p>May GOD be glorified in your life!</p>
-<p><br></p>
-<hr>
-<p style="text-align: left; color: #717171; font-size: 10px">
-Photo by <a href="https://unsplash.com/@aaronburden?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Aaron Burden</a> on <a href="https://unsplash.com/photos/close-up-photography-of-yellow-sunflower-zpK28VGxkJw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>
-</p><p>
-</p>
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
-</section>
-</main></div>
+
+
+
+<p><img class="circular_image" src="images/alpsee.jpg"></p>
+<p><br></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1767243600000" data-listing-file-modified-sort="1766628741492" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<a href="./posts/study-4/01-seeking/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+01 | Seeking
+</h5>
+<div class="card-text listing-description">
+When you are seeking something, it means that you go looking for it. As we start a new year, may we look for GOD in every area of our lives: whether it is for ways to…
 </div>
- <!-- /main -->
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+C.O.
+</div>
+<div class="listing-date">
+Jan 1, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1769922000000" data-listing-file-modified-sort="1766628824431" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
+<a href="./posts/study-4/02-wisdom/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+02 | Wisdom
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+C.O.
+</div>
+<div class="listing-date">
+Feb 1, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1772341200000" data-listing-file-modified-sort="1766628986479" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
+<a href="./posts/study-4/03-hearing/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+03 | Hearing
+</h5>
+<div class="card-text listing-description">
+Hearing from the LORD requires us to listen to the sound of what we perceive is HIS voice. This can happen when we pray, listen to a sermon, or receive word from godly…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+C.O.
+</div>
+<div class="listing-date">
+Mar 1, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -216,6 +312,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

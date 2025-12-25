@@ -22,11 +22,13 @@ There are year-long studies for you to choose. Each study has a topic for every 
 
 *Even though these studies were written in years past, do not hesitate to (re)visit them as often as you feel led to do so.*
 
-<button type="button" class="btn btn-default"><a href="study-1.qmd">Study 1</a></button>
+<button class="btn btn-default"><a href="study-1.qmd">Study 1</a></button>
 
-<button type="button" class="btn btn-default"><a href="study-2.qmd">Study 2</a></button>
+<button class="btn btn-default"><a href="study-2.qmd">Study 2</a></button>
 
-<button type="button" class="btn btn-default"><a href="study-3.qmd">Study 3</a></button>
+<button class="btn btn-default"><a href="study-3.qmd">Study 3</a></button>
+
+<button class="btn btn-default"><a href="study-4.qmd">Study 4</a></button>
 
 # Study Tips 
 
