@@ -2,7 +2,7 @@
 title: "10 | Understanding"
 author: "C.O."
 date: "October 2026"
-draft: true
+draft: false
 ---
 
 Understanding comes from gaining insight into situations and circumstances in our lives. The more varied our experiences, the more understanding or insight we will glean from what is happening around us and to us. I pray that whatever we learn leads us to a greater understanding of who HE is.
